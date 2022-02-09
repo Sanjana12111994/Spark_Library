@@ -1,0 +1,10 @@
+__pycache__/
+.idea/
+target/
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+.xml
+.vscode
+
+
